@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPagesMovie", "RazorPagesMovie.csproj", "{791F5899-6C32-4226-9805-EF777CC3C955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPagesMovie.Models", "..\RazorPagesMovie.Models\RazorPagesMovie.Models.csproj", "{4C3CC823-8730-4D8F-BA9E-EEE4D3984E56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{791F5899-6C32-4226-9805-EF777CC3C955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{791F5899-6C32-4226-9805-EF777CC3C955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{791F5899-6C32-4226-9805-EF777CC3C955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{791F5899-6C32-4226-9805-EF777CC3C955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C3CC823-8730-4D8F-BA9E-EEE4D3984E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3CC823-8730-4D8F-BA9E-EEE4D3984E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C3CC823-8730-4D8F-BA9E-EEE4D3984E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C3CC823-8730-4D8F-BA9E-EEE4D3984E56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE34D4A8-BA12-4B24-9907-DBEE3225E804}
+	EndGlobalSection
+EndGlobal
